@@ -1349,7 +1349,7 @@
 	}
 
 	a {
-		color: #7a447e;
+		color: #a47ea5;
 		text-decoration: underline;
 	}
 
@@ -1475,7 +1475,7 @@
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			border-color: #7a447e;
+			border-color: #a47ea5;
 		}
 
 	form input[type="text"],
@@ -1606,7 +1606,7 @@
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background: #7a447e;
+		background: #a47ea5;
 		color: #fff;
 		text-decoration: none;
 		border-radius: 6px;
